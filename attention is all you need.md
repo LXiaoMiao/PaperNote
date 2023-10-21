@@ -1,6 +1,7 @@
 # **Attention Is All You Need**
 
-> [NIPS-2017-attention-is-all-you-need-Paper.pdf](..\论文\NIPS-2017-attention-is-all-you-need-Paper.pdf) 
+> [NIPS-2017-attention-is-all-you-need-Paper.pdf](..\论文\NIPS-2017-attention-is-all-you-need-Paper.pdf)
+> 参考博客：https://www.cnblogs.com/nickchen121/p/16470569.html#%E5%8D%81transformer
 
 这是一篇由**Ashish Vaswani**等人发表在Neural Information Processing Systems（NIPS）2017年会议上的自然语言处理（NLP）领域的论文。该论文主要介绍了Transformer模型。
 
